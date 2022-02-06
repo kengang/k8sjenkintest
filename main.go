@@ -2,8 +2,8 @@
 package main
 
 import (
-   "log"
-   "net/http"
+	"log"
+	"net/http"
 )
 
 type Server struct{}
