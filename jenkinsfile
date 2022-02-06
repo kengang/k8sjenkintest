@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        registry = "kengang/k8sjenkintest"
+        registry = "kenmei/k8sjenkintest"
         GOCACHE = "/tmp"
     }
     stages {
